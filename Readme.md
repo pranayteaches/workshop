@@ -5,11 +5,11 @@
 
 ## Create a virtual environment
 
-  ``` python3 -m venv py-env ```
-
-  ``` source py-env/bin/activate ```
-
-  ``` pip install -r REQUIREMENTS.txt ```
+  ``` 
+  python3 -m venv py-env
+  source py-env/bin/activate
+  pip install -r REQUIREMENTS.txt
+  ```
 * If you are using Python 3, then you should already have the venv module from the standard library installed. If you don't have it then do:
 
   ``` sudo apt-get install python3-venv ```

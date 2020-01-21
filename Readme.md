@@ -2,7 +2,8 @@
 ## Requirements
 
 * python
-* Create a new virtual environment inside the directory:
+
+## Create a virtual environment
 
   ``` python3 -m venv py-env ```
 * If you are using Python 3, then you should already have the venv module from the standard library installed. If you don't have it then do:

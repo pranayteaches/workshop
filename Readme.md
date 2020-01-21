@@ -13,20 +13,6 @@
 * If you are using Python 3, then you should already have the venv module from the standard library installed. If you don't have it then do:
 
   ``` sudo apt-get install python3-venv ```
-* Activate the environment
-
-* Install the python requirements
-
-* For building the documentation as PDF the following packages need to be installed:
-  ```bash
-  sudo apt install texlive-latex-extra
-  ```
-
-* For translations (needs to be confirmed):
-
-  ```bash
-  sudo apt install texinfo
-  ```
 
 ## Build
 

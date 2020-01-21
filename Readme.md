@@ -3,7 +3,7 @@
 
 * python
 
-## Create a virtual environment
+## Working virtual environment
 
   ``` 
   python3 -m venv py-env
